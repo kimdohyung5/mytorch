@@ -1,3 +1,4 @@
 
 참고 자료
+Detr 관련 구현 참고 자료입니다.
 https://csm-kr.tistory.com/71
