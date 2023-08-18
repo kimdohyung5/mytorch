@@ -1,3 +1,6 @@
+####Youtube의 Aladdin Persson 님의 영상을 보고 작성함..
+    
+
 import torch 
 import torch.nn as nn 
 
