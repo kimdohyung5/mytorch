@@ -1,5 +1,6 @@
 
 ##### Inception을 정의한 화일 이렇게 작성하면 된다.
+####Youtube의 Aladdin Persson 님의 영상을 보고 작성함..
 
 import torch 
 import torch.nn as nn 
